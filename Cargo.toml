@@ -1,0 +1,9 @@
+[package]
+name = "entropy-conservation-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Entropy conservation tracking with transfer protocol, budget allocation, and double-entry accounting"
+
+[dependencies]
+
+[dev-dependencies]
